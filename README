@@ -1,1 +1,6 @@
 An implementation of the game noughts and crosses where the players directly draw their shapes onto the board. The program uses a neural network to recognise the drawings and determine whether the drawing was correct. 
+
+To run:
+
+Compile: "javac *.java"
+Run: "java Play"
