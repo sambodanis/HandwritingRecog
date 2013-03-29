@@ -4,3 +4,5 @@ To run:
 
 Compile: "javac *.java"
 Run: "java Play"
+
+Play.java, whichPlayer.java and Help.java were written by https://github.com/narayn60
